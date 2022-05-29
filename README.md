@@ -1,8 +1,4 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
-
-
-# [Chapter Challenge Name]
+# Edmonton-Canada-predicting-house-affordability
 
 
 ## Contribution Guidelines
